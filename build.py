@@ -31,7 +31,7 @@ def page(title,main,desc=None):
 <meta name="theme-color" content="#f8f7f4"><link rel="stylesheet" href="/assets/site.css"></head>
 <body><a class="skip" href="#main">Skip to content</a><header class="site-header"><div class="container header-inner"><a class="brand site-logo" href="/" aria-label="{name}, home">
   <img
-    src="/images/Carla-Gusek-Website-Logo.png"
+    src="/assets/uploads/carla-gusek-website-logo.png"
     alt="{name}"
     width="180"
     height="90"
