@@ -5,6 +5,7 @@
   display: inline-flex;
   align-items: center;
   text-decoration: none;
+  flex-shrink: 0;
 }
 
 .site-logo img {
@@ -20,4 +21,3 @@
     height: 65px;
   }
 }
-
