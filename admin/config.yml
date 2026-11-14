@@ -1,0 +1,55 @@
+backend:
+  name: github
+  repo: REPLACE_WITH_GITHUB_USERNAME/REPLACE_WITH_REPOSITORY
+  branch: main
+  base_url: https://REPLACE_WITH_OAUTH_BRIDGE_DOMAIN
+  auth_endpoint: auth
+
+media_folder: "assets/uploads"
+public_folder: "/assets/uploads"
+
+collections:
+  - name: "settings"
+    label: "Site settings"
+    files:
+      - label: "Website content"
+        name: "site"
+        file: "content/site.json"
+        format: "json"
+        fields:
+          - {label: "Page title", name: site_title, widget: string}
+          - {label: "Artist name", name: artist_name, widget: string}
+          - {label: "Home introduction", name: intro, widget: text}
+          - {label: "About heading", name: about_heading, widget: string}
+          - {label: "About text", name: about_text, widget: text}
+          - {label: "Purchase heading", name: purchase_heading, widget: string}
+          - {label: "Purchase text", name: purchase_text, widget: text}
+          - {label: "Contact heading", name: contact_heading, widget: string}
+          - {label: "Contact email", name: contact_email, widget: string}
+          - {label: "Instagram URL", name: instagram_url, widget: string}
+          - {label: "Formspree endpoint", name: formspree_url, widget: string}
+          - {label: "SEO description", name: description, widget: text}
+          - {label: "Canonical site URL", name: site_url, widget: string, required: false}
+          - {label: "Social sharing image", name: social_image, widget: image, required: false}
+  - name: "artwork"
+    label: "Artwork gallery"
+    files:
+      - label: "Artwork entries"
+        name: "artworks"
+        file: "content/artworks.json"
+        format: "json"
+        fields:
+          - label: "Artwork (drag to reorder)"
+            name: "items"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - {label: "Title", name: title, widget: string}
+              - {label: "URL slug", name: slug, widget: string, hint: "Lowercase letters, numbers and hyphens only"}
+              - {label: "Artwork image", name: image, widget: image}
+              - {label: "Description / accessible image description", name: description, widget: text, required: false}
+              - {label: "Medium", name: medium, widget: string, required: false}
+              - {label: "Dimensions", name: dimensions, widget: string, required: false}
+              - {label: "Price", name: price, widget: string, required: false}
+              - {label: "Availability", name: availability, widget: select, options: ["Enquire", "Available", "Sold", "Not for sale"]}
+              - {label: "Show in gallery", name: featured, widget: boolean, default: true}

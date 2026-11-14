@@ -1,0 +1,136 @@
+{
+  "items": [
+    {
+      "title": "Euphoria",
+      "slug": "euphoria",
+      "image": "https://carlagusekart.netlify.app/img/Euphoria_carla%20gusek.webp",
+      "description": "",
+      "dimensions": "",
+      "medium": "",
+      "price": "",
+      "availability": "Enquire",
+      "featured": true
+    },
+    {
+      "title": "Clarity",
+      "slug": "clarity",
+      "image": "https://carlagusekart.netlify.app/img/Clarity_carla_gusek.webp",
+      "description": "",
+      "dimensions": "",
+      "medium": "",
+      "price": "",
+      "availability": "Enquire",
+      "featured": true
+    },
+    {
+      "title": "Below The Surface",
+      "slug": "below-the-surface",
+      "image": "https://carlagusekart.netlify.app/img/Below_the_Surface_carla%20gusek.webp",
+      "description": "",
+      "dimensions": "",
+      "medium": "",
+      "price": "",
+      "availability": "Enquire",
+      "featured": true
+    },
+    {
+      "title": "Recurring Dream #1",
+      "slug": "recurring-dream-1",
+      "image": "https://carlagusekart.netlify.app/img/Recurring-Dream-1-carla%20gusek.webp",
+      "description": "",
+      "dimensions": "",
+      "medium": "",
+      "price": "",
+      "availability": "Enquire",
+      "featured": true
+    },
+    {
+      "title": "Dream Vs. Nightmare",
+      "slug": "dream-vs-nightmare",
+      "image": "https://carlagusekart.netlify.app/img/Dream-Vs-Nightmare.webp",
+      "description": "",
+      "dimensions": "",
+      "medium": "",
+      "price": "",
+      "availability": "Enquire",
+      "featured": true
+    },
+    {
+      "title": "Into The Abyss",
+      "slug": "into-the-abyss",
+      "image": "https://carlagusekart.netlify.app/img/Into-the-Abyss_carla-gusek.webp",
+      "description": "",
+      "dimensions": "",
+      "medium": "",
+      "price": "",
+      "availability": "Enquire",
+      "featured": true
+    },
+    {
+      "title": "Half Lucid",
+      "slug": "half-lucid",
+      "image": "https://carlagusekart.netlify.app/img/Half-Lucid_carla_gusek.webp",
+      "description": "",
+      "dimensions": "",
+      "medium": "",
+      "price": "",
+      "availability": "Enquire",
+      "featured": true
+    },
+    {
+      "title": "Alberta",
+      "slug": "alberta",
+      "image": "https://carlagusekart.netlify.app/img/Carla%20Gusek-Artwork-Alberta-1.webp",
+      "description": "",
+      "dimensions": "",
+      "medium": "",
+      "price": "",
+      "availability": "Enquire",
+      "featured": true
+    },
+    {
+      "title": "Sante Fe",
+      "slug": "sante-fe",
+      "image": "https://carlagusekart.netlify.app/img/Santa-Fe_carla%20gusek.webp",
+      "description": "",
+      "dimensions": "",
+      "medium": "",
+      "price": "",
+      "availability": "Enquire",
+      "featured": true
+    },
+    {
+      "title": "Rumination",
+      "slug": "rumination",
+      "image": "https://carlagusekart.netlify.app/img/Rumination_carla_gusek.webp",
+      "description": "",
+      "dimensions": "",
+      "medium": "",
+      "price": "",
+      "availability": "Enquire",
+      "featured": true
+    },
+    {
+      "title": "The Past",
+      "slug": "the-past",
+      "image": "https://carlagusekart.netlify.app/img/The-Past_carla_gusek.webp",
+      "description": "",
+      "dimensions": "",
+      "medium": "",
+      "price": "",
+      "availability": "Enquire",
+      "featured": true
+    },
+    {
+      "title": "Presence",
+      "slug": "presence",
+      "image": "https://carlagusekart.netlify.app/img/Presence_carla_gusek.webp",
+      "description": "",
+      "dimensions": "",
+      "medium": "",
+      "price": "",
+      "availability": "Enquire",
+      "featured": true
+    }
+  ]
+}
