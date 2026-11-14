@@ -29,7 +29,14 @@ def page(title,main,desc=None):
 <title>{esc(title[0])} | {name}</title><meta name="description" content="{description}">
 <meta property="og:type" content="website"><meta property="og:title" content="{esc(title[0])} | {name}"><meta property="og:description" content="{description}">{og}{canon}
 <meta name="theme-color" content="#f8f7f4"><link rel="stylesheet" href="/assets/site.css"></head>
-<body><a class="skip" href="#main">Skip to content</a><header class="site-header"><div class="container header-inner"><a class="brand" href="/" aria-label="{name}, home">{name}</a><nav aria-label="Main navigation"><ul><li><a href="/">My Work</a></li><li><a href="/about/">About Me</a></li><li><a href="/purchase/">Make a Purchase</a></li></ul></nav></div></header>
+<body><a class="skip" href="#main">Skip to content</a><header class="site-header"><div class="container header-inner"><a class="brand site-logo" href="/" aria-label="{name}, home">
+  <img
+    src="/images/Carla-Gusek-Website-Logo.png"
+    alt="{name}"
+    width="180"
+    height="90"
+  >
+</a><nav aria-label="Main navigation"><ul><li><a href="/">My Work</a></li><li><a href="/about/">About Me</a></li><li><a href="/purchase/">Make a Purchase</a></li></ul></nav></div></header>
 <main id="main" class="container">{main}</main>
 <footer class="site-footer"><div class="container footer-grid"><section aria-labelledby="contact-title"><h2 id="contact-title">{esc(site['contact_heading'])}</h2><form action="{esc(safeurl(site['formspree_url']))}" method="POST"><label for="email">Your email</label><input id="email" name="email" type="email" autocomplete="email" required><label for="message">Your message</label><textarea id="message" name="message" rows="5" required></textarea><button type="submit">Send message</button></form></section><section aria-labelledby="follow-title"><h2 id="follow-title">Follow</h2><p><a href="{esc(safeurl(site['instagram_url']))}" rel="noopener noreferrer" target="_blank">Instagram <span class="visually-hidden">(opens in new tab)</span></a></p><p><a href="mailto:{esc(site['contact_email'])}">Email Carla</a></p></section></div><div class="container copyright">© {name}. All rights reserved.</div></footer></body></html>'''
 def write(route,markup):
