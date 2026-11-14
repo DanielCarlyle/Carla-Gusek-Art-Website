@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: REPLACE_WITH_GITHUB_USERNAME/REPLACE_WITH_REPOSITORY
+  repo: DanielCarlyle/Carla-Gusek-Art-Website
   branch: main
   base_url: https://REPLACE_WITH_OAUTH_BRIDGE_DOMAIN
   auth_endpoint: auth
