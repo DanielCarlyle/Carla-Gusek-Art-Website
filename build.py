@@ -102,8 +102,8 @@ def page(title, main, desc=None):
       <img
         src="/assets/uploads/carla-gusek-website-logo.png"
         alt="{name}"
-        width="180"
-        height="90"
+        width="120"
+        height="50"
         decoding="async"
       >
 
