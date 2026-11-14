@@ -13,3 +13,9 @@
   for = "/assets/*"
   [headers.values]
     Cache-Control = "public, max-age=31536000, immutable"
+
+[[redirects]]
+  from = "https://carlagusekart.netlify.app/*"
+  to = "https://carlagusekart.com"
+  status = 301
+  force = true
