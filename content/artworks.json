@@ -45,11 +45,11 @@
       "description": ""
     },
     {
-      "price": "",
+      "price": "$350.00 ",
       "slug": "dream-vs-nightmare",
-      "dimensions": "",
+      "dimensions": "24\"H x 20\"W x 5/8\"D",
       "featured": true,
-      "medium": "",
+      "medium": "Acrylic on Canvas",
       "title": "Dream Vs. Nightmare",
       "availability": "Enquire",
       "image": "/assets/uploads/Dream-Vs-Nightmare.webp",
@@ -115,7 +115,7 @@
       "slug": "the-past",
       "dimensions": "24\"H x 20\"W x 5/8\"",
       "featured": true,
-      "medium": "",
+      "medium": "Mixed Media on Canvas",
       "title": "The Past",
       "availability": "Not for sale",
       "image": "/assets/uploads/The-Past_carla_gusek.webp",
