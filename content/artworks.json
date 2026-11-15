@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "price": "$675.00 CAD<",
+      "price": "$675.00 CAD",
       "slug": "euphoria",
       "dimensions": "30\"H x 48\"W x 5/8\"D",
       "featured": true,
@@ -45,7 +45,7 @@
       "description": ""
     },
     {
-      "price": "$350.00 ",
+      "price": "$350.00 CAD",
       "slug": "dream-vs-nightmare",
       "dimensions": "24\"H x 20\"W x 5/8\"D",
       "featured": true,
@@ -56,13 +56,13 @@
       "description": ""
     },
     {
-      "price": "",
+      "price": "$450.00 CAD",
       "slug": "into-the-abyss",
-      "dimensions": "",
+      "dimensions": "24\"H x 18\"W x 1.5\"D",
       "featured": true,
-      "medium": "",
+      "medium": "Acrylic on Wood Panel",
       "title": "Into The Abyss",
-      "availability": "Enquire",
+      "availability": "Available",
       "image": "/assets/uploads/Into-the-Abyss_carla-gusek.webp",
       "description": ""
     },
