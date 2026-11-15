@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "price": "$450.00 CAD",
+      "slug": "below-the-surface",
+      "dimensions": "24\"H x 18\"W x 1.5\"D",
+      "featured": true,
+      "medium": "Acrylic on Wood Panel",
+      "title": "Below The Surface",
+      "availability": "Enquire",
+      "image": "/assets/uploads/Below_the_Surface_carla%20gusek.webp",
+      "description": ""
+    },
+    {
       "price": "$675.00 CAD",
       "slug": "euphoria",
       "dimensions": "30\"H x 48\"W x 5/8\"D",
@@ -23,17 +34,6 @@
       "description": ""
     },
     {
-      "price": "$450.00 CAD",
-      "slug": "below-the-surface",
-      "dimensions": "24\"H x 18\"W x 1.5\"D",
-      "featured": true,
-      "medium": "Acrylic on Wood Panel",
-      "title": "Below The Surface",
-      "availability": "Enquire",
-      "image": "/assets/uploads/Below_the_Surface_carla%20gusek.webp",
-      "description": ""
-    },
-    {
       "price": "$250.00 CAD",
       "slug": "recurring-dream-1",
       "dimensions": "18\"H x 24\"W x 1 3/8\"D",
@@ -42,6 +42,17 @@
       "title": "Recurring Dream #1",
       "availability": "Not for sale",
       "image": "/assets/uploads/Recurring-Dream-1-carla%20gusek.webp",
+      "description": ""
+    },
+    {
+      "price": "",
+      "slug": "half-lucid",
+      "dimensions": "18\"H x 24\"W x 1.5\"D",
+      "featured": true,
+      "medium": "Acrylic on Wood Panel",
+      "title": "Half Lucid",
+      "availability": "Sold",
+      "image": "/assets/uploads/Half-Lucid_carla_gusek.webp",
       "description": ""
     },
     {
@@ -68,13 +79,13 @@
     },
     {
       "price": "",
-      "slug": "half-lucid",
-      "dimensions": "18\"H x 24\"W x 1.5\"D",
+      "slug": "presence",
+      "dimensions": "24\"H x 18\"W x 1.5\"D",
       "featured": true,
       "medium": "Acrylic on Wood Panel",
-      "title": "Half Lucid",
+      "title": "Presence",
       "availability": "Sold",
-      "image": "/assets/uploads/Half-Lucid_carla_gusek.webp",
+      "image": "/assets/uploads/Presence_carla_gusek.webp",
       "description": ""
     },
     {
@@ -119,17 +130,6 @@
       "title": "The Past",
       "availability": "Not for sale",
       "image": "/assets/uploads/The-Past_carla_gusek.webp",
-      "description": ""
-    },
-    {
-      "price": "",
-      "slug": "presence",
-      "dimensions": "24\"H x 18\"W x 1.5\"D",
-      "featured": true,
-      "medium": "Acrylic on Wood Panel",
-      "title": "Presence",
-      "availability": "Sold",
-      "image": "/assets/uploads/Presence_carla_gusek.webp",
       "description": ""
     }
   ]
