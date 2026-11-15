@@ -1,13 +1,13 @@
 {
   "items": [
     {
-      "price": "675",
+      "price": "$675.00 CAD<",
       "slug": "euphoria",
-      "dimensions": "",
+      "dimensions": "30\"H x 48\"W x 5/8\"D",
       "featured": true,
-      "medium": "",
+      "medium": "Acrylic on Canvas",
       "title": "Euphoria",
-      "availability": "Sold",
+      "availability": "Available",
       "image": "/assets/uploads/Euphoria_carla%20gusek.webp",
       "description": ""
     },
@@ -69,18 +69,18 @@
     {
       "price": "",
       "slug": "half-lucid",
-      "dimensions": "",
+      "dimensions": "18\"H x 24\"W x 1.5\"D",
       "featured": true,
-      "medium": "",
+      "medium": "Acrylic on Wood Panel",
       "title": "Half Lucid",
-      "availability": "Enquire",
+      "availability": "Sold",
       "image": "/assets/uploads/Half-Lucid_carla_gusek.webp",
       "description": ""
     },
     {
-      "price": "250",
+      "price": "$250.00 CAD",
       "slug": "alberta",
-      "dimensions": "20\"H x 24\"W x 5/8\"D",
+      "dimensions": "24\"H x 18\"W x 1.5\"D",
       "featured": true,
       "medium": "Acrylic on Canvas",
       "title": "Alberta",
